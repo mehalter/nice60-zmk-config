@@ -1,3 +1,37 @@
-# nice60-zmk-config
+# Nice!60 ZMK Configuration
 
-Fork this repository and click on the "Actions" tab to enable custom firmware builds. Edit the `.conf` and `.keymap` files to customize.
+## Main Layer
+
+```
+------------------------------------------------------------------------------------------
+|  `  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  0  |  -  |  =  |   BKSP   |
+| TAB  |  Q  |  W  |  E  |  R  |  T  |  Y  |  U  |  I  |  O  |  P  |  [  |  ]  |    \    |
+| CTL/ESC |  A  |  S  |  D  |  F  |  G  |  H  |  J  |  K  |  L  |  ;  |  '  |     ENTER  |
+| SHIFT   |  Z  |  X  |  C  |  V  |  B  |  N  |  M  |  ,  |  .  |  /  |      SHIFT       |
+| FNLYR  |  WIN  |  ALT  |            SPACE               | ALT | WIN | MEDLYR | CTRL    |
+------------------------------------------------------------------------------------------
+```
+
+## Function Layer
+
+```
+------------------------------------------------------------------------------------------
+|     | F1  | F2  | F3  | F4  | F5  | F6  | F7  | F8  | F9  | F10 | F11 | F12 |   DEL    |
+| ___  |     |     | END |     |     |     | PGU |     |     |     |     |     |         |
+| _______ | HME |     | PGD |     |     | LFT | DWN | UP  | RGT |     |     |    INSERT  |
+| _____   |     | RST |     |     |BTLDR|     |     |     |     |     |      _____       |
+| _____  |  ___  |  ___  |            _____               | ___ | ___ |  _____ | ____    |
+------------------------------------------------------------------------------------------
+```
+
+## Media Layer
+
+```
+------------------------------------------------------------------------------------------
+|BTCLR| BT0 | BT1 | BT2 | BT3 | BT4 |     |     |     |     | MTE |VOLDN|VOLUP| PRNTSCRN |
+|RGBTOG|HUEUP|SATUP|BRIUP|EFFRV|SPDUP|     | USB |     |     |     |BRIDN|BRIUP|         |
+| _______ |HUEDN|SATDN|BRIDN|EFFFW|SPDDN|     |     |     |     |     |     |     POWER  |
+| _____   |     | STP |     |     | BLE |     |     | PRV | NXT |     |      _____       |
+| _____  |  ___  |  ___  |          PLAY/PAUSE            | ___ | ___ |  _____ | ____    |
+------------------------------------------------------------------------------------------
+```
