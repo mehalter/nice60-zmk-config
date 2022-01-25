@@ -67,3 +67,10 @@ jobs:
             build/zephyr/zmk.hex
             build/zephyr/zmk.uf2
         continue-on-error: true
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: |
+            build/zephyr/zmk.uf2
+        continue-on-error: true
