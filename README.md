@@ -1,10 +1,12 @@
 # Nice!60 ZMK Configuration
 
+This is a ZMK configuration for a 60% keyboard with heavy inspiration from vim keybindings
+
 Firmware: https://github.com/zmkfirmware/zmk/
 
 Board: https://nicekeyboards.com/nice-60/
 
-Case:  https://kbdfans.com/products/customized-gh60-aluminum-case?variant=18900228800570
+Case: https://kbdfans.com/products/customized-gh60-aluminum-case?variant=18900228800570
 
 ## Main Layer
 
