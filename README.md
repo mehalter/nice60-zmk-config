@@ -16,7 +16,7 @@ Case: https://kbdfans.com/products/customized-gh60-aluminum-case?variant=1890022
 | TAB  |  Q  |  W  |  E  |  R  |  T  |  Y  |  U  |  I  |  O  |  P  |  [  |  ]  |    \    |
 | CTL/ESC |  A  |  S  |  D  |  F  |  G  |  H  |  J  |  K  |  L  |  ;  |  '  |     ENTER  |
 | SHIFT   |  Z  |  X  |  C  |  V  |  B  |  N  |  M  |  ,  |  .  |  /  |      SHIFT       |
-| FNLYR  |  WIN  |  ALT  |            SPACE               | ALT | WIN | MEDLYR | CTRL    |
+| FNLYR  |  ALT  |  WIN  |            SPACE               | ALT | WIN | MEDLYR | CTRL    |
 ------------------------------------------------------------------------------------------
 ```
 
